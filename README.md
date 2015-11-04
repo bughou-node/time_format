@@ -1,5 +1,6 @@
 
-# very simple time format module
+# a very simple time format function
+  有时你只是需要很简单的时间格式化，这时momentjs太大了，作为模块依赖或者前端使用都不太合适，这个模块就是为你而生的。
 
 
 ### function time_format(time, options);
