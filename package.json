@@ -1,16 +1,16 @@
 {
   "name": "time_format",
-  "version": "1.0.5",
+  "version": "0.0.2",
   "description": "a very simple time format util",
-  "main": "index.js",
+  "main": "time_format.js",
   "scripts": {
     "test": "mocha"
   },
+  "homepage": "https://github.com/bughou/time_format",
   "repository": {
     "type": "git",
     "url": "git@github.com/bughou/time_format.git"
   },
-  "homepage": "https://github.com/bughou/time_format",
   "keywords": [
     "simple",
     "time",
