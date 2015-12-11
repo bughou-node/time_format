@@ -36,3 +36,4 @@ time_format(d, { zone: true  });             // => '2015-10-01 10:05:05 +08:00'
 time_format(d, { time: false, zone: true }); // => '2015-10-01 +08:00'
 </pre>
 
+Homepage: https://github.com/bughou-node/time_format
