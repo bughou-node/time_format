@@ -1,6 +1,6 @@
 {
   "name": "time_format",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "a very simple time format util",
   "main": "time_format.js",
   "scripts": {
