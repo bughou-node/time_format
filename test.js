@@ -1,4 +1,4 @@
-var time_format = require('../time_format.js');
+var time_format = require('./time_format.js');
 
 var assert = require("assert");
 
